@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/watchlater/static/css/main.4e4b40ab.chunk.css",
+    "main.js": "/watchlater/static/js/main.785b3909.chunk.js",
+    "main.js.map": "/watchlater/static/js/main.785b3909.chunk.js.map",
+    "runtime-main.js": "/watchlater/static/js/runtime-main.92c4d2b7.js",
+    "runtime-main.js.map": "/watchlater/static/js/runtime-main.92c4d2b7.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/watchlater/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.df08b538.chunk.js": "/watchlater/static/js/2.df08b538.chunk.js",
+    "static/js/2.df08b538.chunk.js.map": "/watchlater/static/js/2.df08b538.chunk.js.map",
+    "index.html": "/watchlater/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/watchlater/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.4e4b40ab.chunk.css.map": "/watchlater/static/css/main.4e4b40ab.chunk.css.map",
+    "static/js/2.df08b538.chunk.js.LICENSE.txt": "/watchlater/static/js/2.df08b538.chunk.js.LICENSE.txt",
+    "static/media/wllogo.ecc408dd.png": "/watchlater/static/media/wllogo.ecc408dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c4d2b7.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.df08b538.chunk.js",
+    "static/css/main.4e4b40ab.chunk.css",
+    "static/js/main.785b3909.chunk.js"
+  ]
+}
